@@ -204,6 +204,16 @@
       },
       "url": "https://packages.unity.com"
     },
+    "se.hertzole.gold-player": {
+      "version": "https://github.com/Hertzole/gold-player.git#package",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.animation": "1.0.0"
+      },
+      "hash": "b8bbd9012559aa17e476213d613c4041c5f8809d"
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,
