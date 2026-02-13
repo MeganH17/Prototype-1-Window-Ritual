@@ -234,6 +234,15 @@
       },
       "url": "https://packages.unity.com"
     },
+    "jp.keijiro.klak.syphon": {
+      "version": "1.0.3",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.screencapture": "1.0.0"
+      },
+      "url": "https://registry.npmjs.com"
+    },
     "se.hertzole.gold-player": {
       "version": "https://github.com/Hertzole/gold-player.git#package",
       "depth": 0,
